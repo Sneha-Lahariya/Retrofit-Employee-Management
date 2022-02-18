@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Retrofit Employee Management</string>
+    <string name="btn_text_add_employee">Add Employee</string>
+    <string name="btn_text_show_all_employees">Show All Employees</string>
+    <string name="btn_text_update_employees">Update Employee</string>
+    <string name="text_add_employee_form">Add Employee Form</string>
+    <string name="btn_text_submit">Submit</string>
+    <string name="btn_text_update">Update</string>
+    <string name="delete_text">Delete</string>
+    <string name="edit_text_address">Address</string>
+    <string name="text_employee_id">Employee ID</string>
+    <string name="button_text_search">Search</string>
+    <string name="text_first_name">First Name</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_designation">Designation</string>
+    <string name="text_department">Department</string>
+</resources>
